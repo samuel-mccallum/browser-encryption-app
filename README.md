@@ -7,7 +7,7 @@ can encrypt or decrypt files up to 500KB in size.
 
 https://samuel-mccallum.github.io/browser-encryption-app/
 
-## what to do
+## What to do
 
 - Generate Keys, or upload keys you've previously saved
 - Select a file to encrypt and upload it
