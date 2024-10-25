@@ -15,7 +15,7 @@
     "jsencrypt": "^3.0.0-rc.1",
     "openpgp": "^4.5.5",
     "tailwindcss": "^1.0.4",
-    "vue": "^2.6.10",
+    "vue": "^3.0.0",
     "vue-worker": "^1.2.1",
     "vuex": "^3.0.1"
   },
